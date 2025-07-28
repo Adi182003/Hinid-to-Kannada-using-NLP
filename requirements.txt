@@ -1,0 +1,8 @@
+FastAPI
+Flask
+transformers
+datasets
+uvicorn
+pydantic
+CORS
+requests
